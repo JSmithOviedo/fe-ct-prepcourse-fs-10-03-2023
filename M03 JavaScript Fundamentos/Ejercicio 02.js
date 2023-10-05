@@ -4,7 +4,9 @@
 function devolverString(string) {
    // Debe retornar un string.
    // Tu código:
+   return string;
 }
+var resulta
 
 // ⛔️ "X" e "Y" son números.
 
